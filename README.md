@@ -1,4 +1,4 @@
-***** วิธีการ setup  *****
+![image](https://github.com/blink1104/xo_game/assets/98315267/894a70b4-b8bc-44d9-a070-40300724aaa8)***** วิธีการ setup  *****
 1. เปิดโปรแกรม MySQL Workbench
 2. Create schema
    ![image](https://github.com/blink1104/xo_game/assets/98315267/902b7158-115a-4bea-bc55-ff017cd300cc)
@@ -9,6 +9,8 @@
 6. เปิดโปรแกรม Intellij IDEA ขึ้นมา (ในที่นี้ผมใช้ version 2022.1.3)
 7. ไปที่เมนู Get form VCS
    ![image](https://github.com/blink1104/xo_game/assets/98315267/7bce35f2-e02f-415f-ad26-5aaffd55d20b)
+8. Copy link ในหน้า Git hub
+   ![image](https://github.com/blink1104/xo_game/assets/98315267/279c25bd-529f-43df-9c22-90591b47c578)
 
 
 run program
