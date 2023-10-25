@@ -1,4 +1,4 @@
-วิธีการ setup 
+***** วิธีการ setup  *****
 1. เปิดโปรแกรม MySQL Workbench
 2. Create schema
    ![image](https://github.com/blink1104/xo_game/assets/98315267/902b7158-115a-4bea-bc55-ff017cd300cc)
@@ -6,9 +6,11 @@
    ![image](https://github.com/blink1104/xo_game/assets/98315267/5073a3a1-1082-49f4-81a3-ca71f910daaf)
 5. เมื่อสร้างเสร็จจะต้องแสดงขึ้นมาแบบนี้
    ![image](https://github.com/blink1104/xo_game/assets/98315267/7b66f9d0-d92f-47bf-a4b7-c793129ea4f0)
+6. เปิดโปรแกรม Intellij IDEA ขึ้นมา (ในที่นี้ผมใช้ version 2022.1.3)
+7. ไปที่เมนู Get form VCS
+   ![image](https://github.com/blink1104/xo_game/assets/98315267/7bce35f2-e02f-415f-ad26-5aaffd55d20b)
 
 
- 
 run program
 วิธีออกแบบโปรแกรม
 algorithm ที่ใช้
