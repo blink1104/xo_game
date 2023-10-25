@@ -1,0 +1,35 @@
+
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+button{
+    cursor: pointer;
+}
+
+#game-board {
+    display: grid;
+    gap: 5px;
+    margin: 0 auto;
+    max-width: max-content;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 24px;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.cell:hover {
+    background-color: #eee;
+}
+
+#message_result{
+    text-align: center;
+    height: 30px;
+}
