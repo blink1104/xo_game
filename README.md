@@ -1,4 +1,4 @@
-![image](https://github.com/blink1104/xo_game/assets/98315267/58d5a2c5-c909-4c00-bbe6-f8ea3c6ffb0d)***** วิธีการ setup  *****
+***** วิธีการ setup  *****
 1. เปิดโปรแกรม MySQL Workbench
 2. Create schema
    ![image](https://github.com/blink1104/xo_game/assets/98315267/902b7158-115a-4bea-bc55-ff017cd300cc)
@@ -32,22 +32,18 @@
 17. ไปที่ไฟล์ persistance.properties
     ![image](https://github.com/blink1104/xo_game/assets/98315267/1af0dd0f-c272-49dc-959a-1caefb559de4)
 18. กำหนดตามนี้
-    18.1 กำหนด port database mysql workbench
-    18.2 กำหนดชื่อ schema ให้ตรงกับที่ได้สร้างไว้ตอนต้น (ข้อ 3)
-    18.3 กำหนด username
-    18.4 กำหนด password
+18.1 กำหนด port database mysql workbench
+18.2 กำหนดชื่อ schema ให้ตรงกับที่ได้สร้างไว้ตอนต้น (ข้อ 3)
+18.3 กำหนด username
+18.4 กำหนด password
     ![image](https://github.com/blink1104/xo_game/assets/98315267/bf027cac-f74e-4254-a754-a23ca8d75df7)
     ![image](https://github.com/blink1104/xo_game/assets/98315267/e3a7f4a5-4d2a-4c2a-8031-29df6377d408)
-
-
-
-
-
-
-
-
-
-
-run program
+19. จากนั้นกด Run Program
+    ![image](https://github.com/blink1104/xo_game/assets/98315267/1cbc47b7-4ed6-46dc-929c-e666c77cb44f)
+20. หลังจากกด Run กลับไปดู schema ที่ได้สร้างขึ้นไว้ใน MySql Workbench ให้กด Refresh 1 ครั้ง แล้วจะมีตาราง xo แสดงขึ้นมา 1 ตาราง (เพราะสร้างตารางแบบ Hibernate)
+    ![image](https://github.com/blink1104/xo_game/assets/98315267/b73f4d1d-2e1b-4c0f-80f7-4ecfbad3d6e0)
+21. หน้าเว็บไซต์
+    ![image](https://github.com/blink1104/xo_game/assets/98315267/0008d148-4ab1-45f0-9fc5-24753860ffc8)
+Run program
 วิธีออกแบบโปรแกรม
 algorithm ที่ใช้
