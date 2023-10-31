@@ -32,7 +32,7 @@
 33. ![image](https://github.com/blink1104/xo_game/assets/98315267/1af0dd0f-c272-49dc-959a-1caefb559de4)
 34. กำหนดตามนี้
 35. กำหนด port database mysql workbench
-36. กำหนดชื่อ schema ให้ตรงกับที่ได้สร้างไว้ตอนต้น (ข้อ 3)
+36. กำหนดชื่อ schema ให้ตรงกับที่ได้สร้างไว้ตอนต้น (ข้อ 4)
 37. กำหนด username
 38. กำหนด password
 39. ![image](https://github.com/blink1104/xo_game/assets/98315267/e3a7f4a5-4d2a-4c2a-8031-29df6377d408)
